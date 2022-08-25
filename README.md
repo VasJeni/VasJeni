@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <header align="center">
-<img class="icons-item-page__image" alt="Programmer" src="https://www.reshot.com/preview-assets/icons/9HXN25LZVG/programmer-9HXN25LZVG.svg" width="150" height="150">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </header>
 
 
