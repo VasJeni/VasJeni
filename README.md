@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <header align="center">
-<div class="icon">
 <img class="icons-item-page__image" alt="Programmer" src="https://www.reshot.com/preview-assets/icons/9HXN25LZVG/programmer-9HXN25LZVG.svg" width="150" height="150">
-</div>
 </header>
 
 
