@@ -15,7 +15,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 ### :man_technologist: About Me :
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine. But now live in UK.
+I am a Frontend Developer from Ukraine. But now live in UK. <br>
 - :telescope: I’m working as a Frontend Engineer and creatig web application. <br>
 - :seedling: Exploring Technical Content Writing. <br>
 - :zap: In my free time, I am learning new skills in web application development.
@@ -37,7 +37,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" alt="symfony" title="symfony" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL" title="MySQL" width="40" height="40"/>&nbsp;
 </div>
-
 ---
 
 ### :fire: My Stats :
